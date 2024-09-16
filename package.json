@@ -1,5 +1,6 @@
 {
   "name": "kanban-gh-pages",
+  "homepage": "https://github.com/iEasyJet/kanban-gh-pages",
   "private": true,
   "version": "0.0.0",
   "type": "module",
